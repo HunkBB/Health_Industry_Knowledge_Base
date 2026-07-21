@@ -1,0 +1,1436 @@
+[
+  {
+    "path": "01-即时零售平台/竞争雷达_美团阿里京东.md",
+    "sources": [
+      "meituan",
+      "meituan_en",
+      "alibaba",
+      "ali_health",
+      "jdhealth"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/美团-美团买药/公开新闻/美团即时零售与买药新闻动态_2025-2026.md",
+    "sources": [
+      "meituan",
+      "meituan_en",
+      "cninfo",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/美团-美团买药/综合分析/美团-美团买药-结构化摘要.md",
+    "sources": [
+      "meituan",
+      "meituan_en"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/美团-美团买药/财报数据/美团FY2025及2026Q1财报-即时零售与买药相关.md",
+    "sources": [
+      "meituan",
+      "meituan_en",
+      "cninfo",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/京东买药与京东秒送能力基准.md",
+    "sources": [
+      "jdhealth"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/京东健康2025年度报告摘要.md",
+    "sources": [
+      "jdhealth",
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/京东健康自营药房与线下履约能力梳理.md",
+    "sources": [
+      "jdhealth"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/医药即时零售用户入口对比.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa",
+      "cninfo",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/平台医药合规边界_处方医保履约.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/平台竞争指标表_流量供给履约医保处方药师.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/平台药店合作模式对比.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa",
+      "cninfo",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/平台补贴竞争对医药即时零售影响.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa",
+      "cninfo",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/淘宝闪购饿了么医药场景资料.md",
+    "sources": [
+      "alibaba",
+      "ali_health"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/美团2026Q1业绩公告即时零售摘要.md",
+    "sources": [
+      "meituan",
+      "meituan_en",
+      "cninfo",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/美团买药业务公开资料摘要.md",
+    "sources": [
+      "meituan",
+      "meituan_en"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/美团阿里京东医药即时零售三方对比.md",
+    "sources": [
+      "meituan",
+      "meituan_en",
+      "alibaba",
+      "ali_health",
+      "jdhealth"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/美团阿里京东每周竞争雷达来源索引.md",
+    "sources": [
+      "meituan",
+      "meituan_en",
+      "alibaba",
+      "ali_health",
+      "jdhealth"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/阿里FY2026财报本地生活与即时零售摘要.md",
+    "sources": [
+      "alibaba",
+      "ali_health",
+      "cninfo",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/补充资料/阿里健康2026财年业绩摘要.md",
+    "sources": [
+      "alibaba",
+      "ali_health"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/阿里-淘宝闪购/公开新闻/阿里淘宝闪购新闻动态_2025-2026.md",
+    "sources": [
+      "alibaba",
+      "ali_health",
+      "cninfo",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/阿里-淘宝闪购/综合分析/阿里-淘宝闪购-结构化摘要.md",
+    "sources": [
+      "alibaba",
+      "ali_health"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/阿里-淘宝闪购/财报数据/阿里FY2026全年财报-原文.md",
+    "sources": [
+      "alibaba",
+      "ali_health",
+      "cninfo",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "01-即时零售平台/阿里-淘宝闪购/财报数据/阿里FY2026财报-即时零售相关.md",
+    "sources": [
+      "alibaba",
+      "ali_health",
+      "cninfo",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "02-连锁药店/一心堂/一心堂-新闻动态_2025-2026.md",
+    "sources": [
+      "yxt",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "hkex"
+    ]
+  },
+  {
+    "path": "02-连锁药店/一心堂/一心堂-结构化摘要.md",
+    "sources": [
+      "yxt",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/健之佳/健之佳-新闻动态_2025-2026.md",
+    "sources": [
+      "jzj",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "hkex"
+    ]
+  },
+  {
+    "path": "02-连锁药店/健之佳/健之佳-结构化摘要.md",
+    "sources": [
+      "jzj",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/国大药房-国药一致/国大药房-国药一致-新闻动态_2025-2026.md",
+    "sources": [
+      "gyyz",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "hkex"
+    ]
+  },
+  {
+    "path": "02-连锁药店/国大药房-国药一致/国大药房-国药一致-结构化摘要.md",
+    "sources": [
+      "gyyz",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/大参林/公开新闻/大参林-新闻动态_2025-2026.md",
+    "sources": [
+      "dasenlin",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "hkex"
+    ]
+  },
+  {
+    "path": "02-连锁药店/大参林/综合分析/大参林-结构化摘要.md",
+    "sources": [
+      "dasenlin",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/官方财报数据/连锁药店2025官方财报核心数据.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "hkex"
+    ]
+  },
+  {
+    "path": "02-连锁药店/漱玉平民/公开新闻/漱玉平民-新闻动态_2025-2026.md",
+    "sources": [
+      "sypm",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "hkex"
+    ]
+  },
+  {
+    "path": "02-连锁药店/漱玉平民/综合分析/漱玉平民-结构化摘要.md",
+    "sources": [
+      "sypm",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/益丰药房/公开新闻/益丰药房-新闻动态_2025-2026.md",
+    "sources": [
+      "yifeng",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "hkex"
+    ]
+  },
+  {
+    "path": "02-连锁药店/益丰药房/综合分析/益丰药房-结构化摘要.md",
+    "sources": [
+      "yifeng",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/老百姓/公开新闻/老百姓-新闻动态_2025-2026.md",
+    "sources": [
+      "lbx",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "hkex"
+    ]
+  },
+  {
+    "path": "02-连锁药店/老百姓/综合分析/老百姓-结构化摘要.md",
+    "sources": [
+      "lbx",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/DTP药房与普通连锁药店差异.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/一心堂2025年报与2026Q1经营摘要.md",
+    "sources": [
+      "yxt",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/健之佳2025年报与2026Q1经营摘要.md",
+    "sources": [
+      "jzj",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/六大连锁药店统一经营指标表_2025-2026.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/国药一致／国大药房2025年报与2026Q1经营摘要.md",
+    "sources": [
+      "gyyz",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/大参林2025年报与2026Q1经营摘要.md",
+    "sources": [
+      "dasenlin",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/漱玉平民2025年报与2026Q1经营摘要.md",
+    "sources": [
+      "sypm",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/益丰药房2025年报与2026Q1经营摘要.md",
+    "sources": [
+      "yifeng",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/老百姓2025年报与2026Q1经营摘要.md",
+    "sources": [
+      "lbx",
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/连锁药店O2O能力对比.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/连锁药店会员体系对比.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/连锁药店关店开店与坪效变化.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/连锁药店区域布局对比.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/连锁药店医保能力对比.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "nmpa_rule",
+      "nhsa_chronic"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/连锁药店合规处罚与监管风险案例.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "nmpa_rule",
+      "nhsa_chronic"
+    ]
+  },
+  {
+    "path": "02-连锁药店/补充资料/连锁药店财报阅读指南.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "hkex"
+    ]
+  },
+  {
+    "path": "02-连锁药店/连锁药店行业-增量新闻动态_2025-2026.md",
+    "sources": [
+      "cninfo",
+      "sse",
+      "ccfa",
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "menet"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/DTP与特药/DTP药企-信息摘要.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/DTP与特药/信达生物/信达生物-新闻动态_2025-2026.md",
+    "sources": [
+      "innovent",
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/DTP与特药/再鼎医药/再鼎医药-新闻动态_2025-2026.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/DTP与特药/百济神州/百济神州-新闻动态_2025-2026.md",
+    "sources": [
+      "beigene",
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/OTC与消费健康/OTC药企-信息摘要.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/OTC与消费健康/云南白药/新闻动态_2025-2026.md",
+    "sources": [
+      "ynby",
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/OTC与消费健康/华润三九/新闻动态_2025-2026.md",
+    "sources": [
+      "cr999",
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/OTC与消费健康/汤臣倍健/新闻动态_2025-2026.md",
+    "sources": [
+      "byhealth",
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/官方财报数据/药企官方财报核心数据.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/DTP与特药机会矩阵.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/GLP1与体重管理药品机会分析.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/OTC品类机会矩阵.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/云南白药2025-2026财报与渠道机会摘要.md",
+    "sources": [
+      "ynby",
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/信达生物2025-2026财报与渠道机会摘要.md",
+    "sources": [
+      "innovent",
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/再鼎医药2025-2026财报与渠道机会摘要.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/华润三九2025-2026财报与渠道机会摘要.md",
+    "sources": [
+      "cr999",
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/慢病复购品类矩阵.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/汤臣倍健2025-2026财报与渠道机会摘要.md",
+    "sources": [
+      "byhealth",
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/百济神州2025-2026财报与渠道机会摘要.md",
+    "sources": [
+      "beigene",
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "sse",
+      "hkex"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/药企与平台合作模式.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/药企机会优先级评分表.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/药企渠道布局_院内院外零售DTP电商O2O.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa"
+    ]
+  },
+  {
+    "path": "03-即时零售相关药企/补充资料/药品与即时零售适配性评分表.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa"
+    ]
+  },
+  {
+    "path": "04-券商研报/O2O与本地生活/券商研报_O2O与本地生活_2025-2026.md",
+    "sources": [
+      "cninfo",
+      "meituan",
+      "alibaba",
+      "jdhealth",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "04-券商研报/医药零售行业/券商研报_医药零售行业_2025-2026.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet",
+      "cninfo",
+      "meituan"
+    ]
+  },
+  {
+    "path": "04-券商研报/即时零售行业/券商研报与行业研究_即时零售_2025-2026.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet",
+      "cninfo",
+      "meituan"
+    ]
+  },
+  {
+    "path": "04-券商研报/研报原文摘要.md",
+    "sources": [
+      "cninfo",
+      "meituan",
+      "alibaba",
+      "jdhealth",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "05-行业机构/中康科技/中康科技-公开报告与数据摘要.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/本周行业变化.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/行业最新权威资讯.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/CCFA医药零售与连锁经营趋势摘要.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/O2O与B2C医药电商模式对比.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/中康科技药品全终端市场回顾与展望.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/全终端药品市场渠道对比_医院基层零售电商.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/医药零售学习地图_入门到进阶.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/医药零售行业关键事件时间线_2024-2026.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/医药零售行业规模与渠道结构_2024-2026.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/商务部研究院即时零售行业发展报告摘要.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/处方外流对零售药店和DTP药房的影响.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery",
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/实体药店行业变化_门店数连锁率单店产出.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/米内网三大终端六大市场数据摘要.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/补充资料/药品价格治理与零售药店利润结构变化.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "05-行业机构/西普会/西普会-内容摘要.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "06-其他行业报告/其他行业报告摘要_2025-2026.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "06-其他行业报告/医药零售行业全景摘要_2025-2026.md",
+    "sources": [
+      "sinohealth_sohu",
+      "mofcom_ir",
+      "ccfa",
+      "menet"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/医保政策/医保政策汇总.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/处方药监管/处方药监管政策汇总.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/平台监管/平台监管政策汇总.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/药品流通/药品流通政策汇总.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/上海医保药店与线上医保政策样本.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/互联网医院与处方药销售边界.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/互联网药品信息服务与数据合规.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/北京医保药店与线上医保政策样本.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/医保基金监管政策摘要.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/医保目录调整与创新药目录政策摘要.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/国家医保局政策文件索引_2025-2026.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/处方流转与互联网诊疗监管细则.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/处方药网络零售合规指南摘要.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/定点零售药店监管政策.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/平台补贴价格竞争与反不正当竞争监管.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/广东医保药店与线上医保政策样本.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/慢特病与门诊统筹政策资料.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/政策影响矩阵_平台药店药企用户.md",
+    "sources": [
+      "cninfo",
+      "nmpa_rule",
+      "nhsa",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/浙江医保药店与线上医保政策样本.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/线上医保支付与定点零售药店政策.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/药品价格治理_集采挂网比价价格监测.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/药品召回与不良反应监管资料.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/药品广告与平台展示合规.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/药品流通追溯与一物一码政策.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/药品经营质量管理规范GSP与零售药店履约.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "07-政策与监管库/补充资料/药店合规处罚案例库.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/常见疾病基础概念.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/核心医学概念词典.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/COPD与哮喘基础概念.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/PubMed慢病与社区药房文献索引.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/乙肝与抗病毒药物基础.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/儿童用药基础与药店咨询边界.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/冠心病与心脑血管用药基础.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/医学基础资料引用边界说明.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/发热咳嗽咽痛常见症状与药店咨询边界.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/处方药OTC适应症禁忌症不良反应.md",
+    "sources": [
+      "nmpa_rule",
+      "nhsa_chronic",
+      "delivery",
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/失眠焦虑与药店咨询边界.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/孕妇与哺乳期用药咨询边界.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/家庭常备药与急用药场景.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/感冒与流感基础概念.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/慢性肾病基础概念.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/疾病药品场景映射表.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/糖尿病基础概念与慢病管理场景.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/结膜炎眼干眼部不适基础概念.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/老年用药基础与慢病复购.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/肥胖与GLP1基础概念.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/肿瘤特药与DTP药房基础.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/腹泻胃痛消化不良基础概念.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/药物相互作用与联合用药基础.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/过敏鼻炎皮炎湿疹基础概念.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/高脂血症基础概念与用药依从性.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/补充资料/高血压基础概念与慢病复购场景.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  },
+  {
+    "path": "08-疾病与医学基础/重点病种基础概念.md",
+    "sources": [
+      "nhc_chronic",
+      "gov_chronic",
+      "cdc",
+      "nhsa_chronic",
+      "nmpa_rule"
+    ]
+  }
+]
